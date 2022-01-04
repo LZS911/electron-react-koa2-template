@@ -1,5 +1,5 @@
 {
-  "name": "treasure-bowl-webview",
+  "name": "electron-react-koa2-template-webview",
   "description": "Electron application boilerplate based on React, React Router, Webpack, React Fast Refresh for rapid application development",
   "scripts": {
     "build": "concurrently \"npm run build:main\" \"npm run build:renderer\"",
@@ -96,28 +96,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LZS911/electron-react-media.git"
+    "url": "git+https://github.com/LZS911/electron-react-koa2-template.git"
   },
-  "author": {
-    "name": "Electron React Boilerplate Maintainers",
-    "email": "electronreactboilerplate@gmail.com",
-    "url": "https://electron-react-boilerplate.js.org"
-  },
-  "contributors": [
-    {
-      "name": "Amila Welihinda",
-      "email": "amilajack@gmail.com",
-      "url": "https://github.com/amilajack"
-    },
-    {
-      "name": "John Tran",
-      "email": "jptran318@gmail.com",
-      "url": "https://github.com/jooohhn"
-    }
-  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/electron-react-boilerplate/electron-react-boilerplate/issues"
+    "url": "https://github.com/LZS911/electron-react-koa2-template/issues"
   },
   "keywords": [
     "electron",
@@ -130,7 +113,7 @@
     "hot",
     "reload"
   ],
-  "homepage": "https://github.com/electron-react-boilerplate/electron-react-boilerplate#readme",
+  "homepage": "https://github.com/LZS911/electron-react-koa2-template#readme",
   "jest": {
     "testURL": "http://localhost/",
     "testEnvironment": "jsdom",

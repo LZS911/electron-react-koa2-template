@@ -1,10 +1,8 @@
 {
-  "name": "treasure-bowl-server",
+  "name": "electron-react-koa2-template-server",
   "version": "1.0.0",
-  "description": "toDo-Management-Server",
   "main": "app.js",
   "license": "MIT",
-  "workPath": "/Users/liyu/Documents/todo",
   "scripts": {
     "server": "ts-node app.ts",
     "dev": "nodemon app.ts"
